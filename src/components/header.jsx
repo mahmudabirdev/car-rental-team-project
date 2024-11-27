@@ -90,7 +90,7 @@ const Header = () => {
                                 <Col xs={12} md={4}>
                             <span className="fs-6">
                                 <IoLocation className="header-line-2-icon"/>&nbsp;
-                                <a href="https://goo.gl/maps/2rkkAA9FP5pegCXF9" target="_blank" className="text-white">New York</a>
+                                <a href="https://goo.gl/maps/2rkkAA9FP5pegCXF9" target="_blank" className="text-white">Kualalumpur , Malaysia</a>
                             </span>
                                 </Col>
                                 <Col xs={12} md={4}>
