@@ -41,20 +41,20 @@ const Login = () => {
                         <p className="m-0">Demo Login Informations (Click for Autofill)</p>
                         <p className="m-0">
                             <a href="#" onClick={() => {
-                                setEmail("admin@batuhanozturk.com")
-                                setPassword("123456")
+                                setEmail("abirmahmud438119@gmail.com")
+                                setPassword("abirmahmud438119")
                                 }
                             }>
-                                For Admin: admin@batuhanozturk.com 123456
+                                For Admin: abirmahmud438119@gmail.com abirmahmud438119
                             </a>
                         </p>
                         <p className="m-0">
                             <a href="#" onClick={() => {
-                                setEmail("user@batuhanozturk.com")
-                                setPassword("123456")
+                                setEmail("demouser@gmail.com")
+                                setPassword("1234567")
                                 }
                             }>
-                                For User: user@batuhanozturk.com 123456
+                                For User: demouser@gmail.com 1234567
                             </a>
                         </p>
                     </Col>
