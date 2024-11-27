@@ -96,7 +96,6 @@ const Header = () => {
                                 <Col xs={12} md={4}>
                           <span className="fs-6">
                             <BsTelephoneFill size="0.9em" className="header-line-2-icon"/>&nbsp;
-                              <a href="tel:+12126583916" target="_blank" className="text-white">(212) 658-3916</a>
                           </span>
                                 </Col>
                                 <Col xs={12} md={4}>
